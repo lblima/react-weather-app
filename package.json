@@ -13,6 +13,7 @@
     "react-sparklines": "^1.7.0",
     "redux": "^3.7.2",
     "redux-promise": "^0.5.3",
+    "redux-saga": "^0.16.0",
     "redux-thunk": "^2.2.0"
   },
   "scripts": {

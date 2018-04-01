@@ -33,7 +33,6 @@ class WeatherList extends Component {
     }
 
     render() {
-        console.log(this.props.weather);
 
         return (
             <table className='table table-hover'>
